@@ -53,7 +53,7 @@
             youTubeQuality = YouTubeThumbnailDefaultHighQuality;
             break;
         case YKQualityHigh:
-            youTubeQuality = YouTubeThumbnailDefaultMaxQuality;
+            youTubeQuality = YouTubeThumbnailDefaultHighQuality;
             break;
     }
     
