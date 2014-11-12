@@ -50,7 +50,7 @@
             youTubeQuality = YouTubeThumbnailDefaultMedium;
             break;
         case YKQualityMedium:
-            youTubeQuality = YouTubeThumbnailDefaultHighQuality;
+            youTubeQuality = YouTubeThumbnailDefaultMedium;
             break;
         case YKQualityHigh:
             youTubeQuality = YouTubeThumbnailDefaultHighQuality;
